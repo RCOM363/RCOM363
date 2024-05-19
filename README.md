@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Rahul
 
-> Aspiring Web Developer | CSE Student
+> Aspiring Developer | CSE Student
 
 ## 🚀 About Me
 With a solid foundation in HTML, CSS, and JavaScript , I'm always trying to expand my skillset to become a well-rounded Full-Stack Developer. 
