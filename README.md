@@ -7,7 +7,7 @@ With a solid foundation in HTML, CSS, and JavaScript , I'm always trying to expa
 My journey includes exploring the various web technologies and building my problem-solving and analytical skills. 
 I'm always looking for opportunities to learn, collaborate, and contribute to meaningful projects. Hit me up if you have something in mind!
 
-*   🌍  I'm based in Belgavi, Karnataka
+*   🌍  I'm based in Belagavi, Karnataka
 *   🖥️  See my current [Portfolio](http://rcom363.netlify.app/)
 *   ✉️  You can contact me at [rahullankeppanavar363@gmail.com](mailto:rahullankeppanavar363@gmail.com)
 *   🧠  I'm currently learning ReactJS
