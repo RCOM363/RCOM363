@@ -4,7 +4,7 @@
 I am a Computer Science student specializing in full-stack development with the MERN stack. I build responsive web applications using JavaScript, React, Node.js, and have strong API and database management skills. I focus on creating user-friendly and functional web solutions.
 
 *   🌍  Based in Karnataka, India 
-*   🧠  Currently learning working on my major project [FeedForward](https://github.com/rcom363/feed-forward)
+*   👨‍💻  Currently learning working on my major project [FeedForward](https://github.com/rcom363/feed-forward)
 *   🤝  Open to collaboration opportunities
 *   ⚡️  I can center a div 
 
@@ -14,6 +14,9 @@ I am a Computer Science student specializing in full-stack development with the 
 ![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![](https://img.shields.io/badge/Axios-5A29E4.svg?style=for-the-badge&logo=Axios&logoColor=white)
 ![](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
+![](https://img.shields.io/badge/React%20Router-CA4245.svg?style=for-the-badge&logo=React-Router&logoColor=white)
+![](https://img.shields.io/badge/React%20Hook%20Form-EC5990.svg?style=for-the-badge&logo=React-Hook-Form&logoColor=white)
+![](https://img.shields.io/badge/React%20Query-FF4154.svg?style=for-the-badge&logo=React-Query&logoColor=white)
 ![](https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white)
 ![](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -25,3 +28,5 @@ I am a Computer Science student specializing in full-stack development with the 
 ![](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 ![](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
+![](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white)
+![](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white)
