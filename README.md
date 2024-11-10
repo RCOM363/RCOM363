@@ -1,11 +1,9 @@
 # Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Rahul
 
 ## 🚀 About Me
-With a solid foundation in HTML, CSS, and JavaScript , I'm always trying to expand my skillset to become a well-rounded Full-Stack Developer. 
-My journey includes exploring the various web technologies and building my problem-solving and analytical skills. 
-I'm always looking for opportunities to learn, collaborate, and contribute to meaningful projects. Hit me up if you have something in mind!
+I am a Computer Science student specializing in full-stack development with the MERN stack. I build responsive web applications using JavaScript, React, Node.js, and have strong API and database management skills. I focus on creating user-friendly and functional web solutions.
 
-*   🌍  Based in Belagavi, Karnataka
+*   🌍  Based in Karnataka, India 
 *   🧠  Currently learning working on my major project [FeedForward](https://github.com/rcom363/feed-forward)
 *   🤝  Open to collaboration opportunities
 *   ⚡️  I can center a div 
