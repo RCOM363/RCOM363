@@ -4,7 +4,7 @@
 I am a Computer Science student specializing in full-stack development with the MERN stack. I build responsive web applications using JavaScript, React, Node.js, and have strong API and database management skills. I focus on creating user-friendly and functional web solutions.
 
 *   🌍  Based in Karnataka, India 
-*   👨‍💻  Currently working on my major project [FeedForward](https://github.com/rcom363/feed-forward)
+*   👨‍💻  Currently learning NextJS & TypeScript
 *   🤝  Open to collaboration opportunities
 *   ⚡️  I can center a div 
 
