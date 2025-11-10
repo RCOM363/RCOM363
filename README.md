@@ -1,7 +1,7 @@
 # Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Rahul
 
 ## 🚀 About Me
-I am a Computer Science student specializing in full-stack development with the MERN stack. I build responsive web applications using JavaScript, React, Node.js, and have strong API and database management skills. I focus on creating user-friendly and functional web solutions.
+**Software Developer** specializing in **MERN** stack, with experience in **full-stack development** & **deployment**. Skilled in **RESTful API** design, **database management**, **AWS**, **CI/CD pipelines** & **third-party integrations**. Focused on building **scalable**, **reliable** & **performance-driven** solutions.
 
 *   🌍  Based in Karnataka, India 
 *   👨‍💻  Currently learning NextJS & TypeScript
