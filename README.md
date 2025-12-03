@@ -1,10 +1,9 @@
 # Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Rahul
 
-## 🚀 About Me
-**Software Developer** specializing in **MERN** stack, with experience in **full-stack development** & **deployment**. Skilled in **RESTful API** design, **database management**, **AWS**, **CI/CD pipelines** & **third-party integrations**. Focused on building **scalable**, **reliable** & **performance-driven** solutions.
+Software Developer with hands-on experience in **designing** and **developing** scalable web applications. Proficient in RESTful APIs, database management, backend optimization, **deploying** applications on **AWS** with **CI/CD**, and modern JavaScript frameworks.
 
 *   🌍  Based in Karnataka, India 
-*   👨‍💻  Currently learning NextJS & TypeScript
+*   👨‍💻  Currently interning @[Care Diary](https://carediary.com.au/) & upping my game
 *   🤝  Open to collaboration opportunities
 *   ⚡️  I can center a div 
 
@@ -17,8 +16,10 @@
 ![Redux](https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/React%20Query-FF4154.svg?style=for-the-badge&logo=React-Query&logoColor=white)
 ![Nextjs](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-1C2024.svg?style=for-the-badge&logo=Expo&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Expressjs](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE.svg?style=for-the-badge&logo=tRPC&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438.svg?style=for-the-badge&logo=Redis&logoColor=white)
